@@ -1,0 +1,5 @@
+{
+  "name": "AI Facial Animation App",
+  "description": "Web App para animación facial mediante IA con arquitectura de colas.",
+  "requestFramePermissions": []
+}
